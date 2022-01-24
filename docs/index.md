@@ -6,7 +6,7 @@ https://www.linkedin.com/in/jaroslaw-gaze/
 
 
 ## Competency matrix 
-Below I list technologies and my level of knowladge (in my opinion)
+Below I list technologies and my level of knowledge (in my opinion)
 
 
 | Technologies | Level | Description
@@ -48,15 +48,3 @@ Below I list technologies and my level of knowladge (in my opinion)
 |**Others**|||
 |JIRA|<i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star-o" style="font-size:12px"></i>|||
 |Remedy|<i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star-o" style="font-size:12px"></i><i class="fa fa-star-o" style="font-size:12px"></i>|||
-
-
-Empty star - https://www.codesprogram.com/icons/Star-o-icon-in-font-awesome
-
-Half star  - https://www.codesprogram.com/icons/Star-half-o-icon-in-font-awesome
-
-Full star  - https://www.codesprogram.com/icons/Star-icon-in-font-awesome
-
-<i class="fa fa-star" style="font-size:12px"></i>
-<i class="fa fa-star-o" style="font-size:12px"></i>
-<i class="fa fa-star-half-o" style="font-size:12px"></i>
-<i class="fa fa-star-half-o fa-spin" style="font-size:12px"></i>

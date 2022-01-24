@@ -3,3 +3,29 @@ extra_css:
   - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
 theme:
   name: material
+  language: en 
+  icon:
+    logo: material/book-open-page-variant
+    repo: fontawesome/brands/github  
+  features:
+    # https://squidfunk.github.io/mkdocs-material/reference/code-blocks/#adding-annotations
+    # - content.code.annotate
+    - navigation.expand
+    # - navigation.instant
+    # - navigation.tabs
+    # - navigation.tabs.sticky
+    # - navigation.top
+    # - navigation.tracking
+    # - search.highlight
+    # - search.share
+    # - search.suggest
+nav:
+  # - Home: index.md
+  # - Internals:
+  #   - Overview: overview.md
+  #   - Configuration Properties: configuration-properties.md
+  #   - KubernetesClusterManager: KubernetesClusterManager.md
+  - Home: index.md
+  - Portfolio: portfolio.md
+  - Other: 
+    - Markdown: markdown.md
