@@ -28,4 +28,5 @@ nav:
   - Home: index.md
   - Portfolio: portfolio.md
   - Other: 
-    - Markdown: markdown.md
+    - Markdown: 
+      - Install and configuration: markdown_ic.md
