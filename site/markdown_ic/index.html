@@ -59,6 +59,11 @@
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
       
+        
+        <a href="#install-and-configure" class="md-skip">
+          Skip to content
+        </a>
+      
     </div>
     <div data-md-component="announce">
       
@@ -266,10 +271,71 @@
       <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
       
       
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Install and configuration
+          <span class="md-nav__icon md-icon"></span>
+        </label>
       
       <a href="./" class="md-nav__link md-nav__link--active">
         Install and configuration
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#install-prerequirment-software" class="md-nav__link">
+    Install prerequirment software
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#install-mkdocs" class="md-nav__link">
+    Install mkdocs
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#plugin-install" class="md-nav__link">
+    Plugin install
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#usefull-link" class="md-nav__link">
+    Usefull link
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#usefull-bootstrap-icons" class="md-nav__link">
+    Usefull Bootstrap icons
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
       
     </li>
   
@@ -296,15 +362,129 @@
               </div>
             
             
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#install-prerequirment-software" class="md-nav__link">
+    Install prerequirment software
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#install-mkdocs" class="md-nav__link">
+    Install mkdocs
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#plugin-install" class="md-nav__link">
+    Plugin install
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#usefull-link" class="md-nav__link">
+    Usefull link
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#usefull-bootstrap-icons" class="md-nav__link">
+    Usefull Bootstrap icons
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
           
           <div class="md-content" data-md-component="content">
             <article class="md-content__inner md-typeset">
               
                 
 
-  <h1>Install and configuration</h1>
+<h1 id="install-and-configure">Install and configure</h1>
+<h2 id="install-prerequirment-software">Install prerequirment software</h2>
+<pre><code class="language-sh">add-apt-repository ppa:git-core/ppa
+sudo apt-get update
+sudo apt-get install     ca-certificates     curl     gnupg     lsb-release
+sudo apt-get install docker-ce docker-ce-cli containerd.io
+sudo apt-get install docker-ce docker-ce-cli containerd.io
+sudo apt install apt-transport-https ca-certificates curl software-properties-common
 
+sudo apt-get update
+sudo apt-get update &amp;&amp; sudo apt-get upgrade
+sudo apt-get install docker-ce docker-ce-cli containerd.io
+sudo apt-get install pyhton3
+sudo apt install python3-pip
+</code></pre>
+<h2 id="install-mkdocs">Install mkdocs</h2>
+<pre><code class="language-sh">sudo apt install mkdocs
 
+mkdocs new .
+pip install -e mkdocs-material
+git submodule add https://github.com/squidfunk/mkdocs-material.git mkdocs-material
+
+# run in docker
+sudo docker run --rm -it -p 8000:8000 -v ${PWD}:/docs squidfunk/mkdocs-material
+
+mkdocs build
+mkdocs serve
+mkdocs serve --livereload
+
+mkdocs gh-deploy --force
+</code></pre>
+<h2 id="plugin-install">Plugin install</h2>
+<pre><code class="language-sh">pip install git+https://github.com/jldiaz/mkdocs-plugin-tags.git
+pip install mkdocs-minify-plugin&gt;=0.3.0
+pip install mkdocs-awesome-pages-plugin&gt;=2.5.0
+pip install mkdocs-macros-plugin&gt;=0.5.0
+pip install mkdocs-redirects&gt;=1.0.1
+pip install mkdocs-git-revision-date-plugin&gt;=0.3.1
+pip install testresources
+pip install mkdocs-git-revision-date-plugin&gt;=0.3.1
+pip install mkdocs-git-revision-date-localized-plugin&gt;=0.8
+pip install tags
+pip install mkdocs-git-revision-date-plugin &amp;&amp; pip install mkdocs-minify-plugin
+</code></pre>
+<h2 id="usefull-link">Usefull link</h2>
+<p>(1) <a href="https://www.markdownguide.org/getting-started/">Official page</a><br/>
+(2) <a href="https://www.markdownguide.org/basic-syntax/">Basic syntax</a><br/>
+(3) <a href="https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax">Github page</a><br/>
+(4) <a href="https://docs.microsoft.com/pl-pl/contribute/markdown-reference">Mardown reference</a> <strong>PL</strong><br/>
+(5) <a href="https://www.mkdocs.org/">MkDocs</a><br/>
+(6) <a href="https://squidfunk.github.io/mkdocs-material/getting-started/">MkDocs Github</a><br/>
+(7) <a href="https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#navigation-sections">Mkdocs navigation</a></p>
+<h2 id="usefull-bootstrap-icons">Usefull Bootstrap icons</h2>
+<p><a href="https://www.codesprogram.com/icons/Star-o-icon-in-font-awesome">Empty star</a> <i class="fa fa-star-o" style="font-size:12px"></i><br/>
+<a href="https://www.codesprogram.com/icons/Star-half-o-icon-in-font-awesome">Half star</a> <i class="fa fa-star-half-o" style="font-size:12px"></i> <i class="fa fa-star-half-o fa-spin" style="font-size:12px"></i><br/>
+<a href="https://www.codesprogram.com/icons/Star-icon-in-font-awesome">Full star</a> <i class="fa fa-star" style="font-size:12px"></i><br/></p>
 
               
             </article>
