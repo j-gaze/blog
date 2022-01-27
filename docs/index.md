@@ -12,7 +12,7 @@ Below list technologies and my level  (in my opinion)
 | Technologies | Level | Description
 | --- | --- | --- |
 | **OS** | | |
-|Linux|<i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star-o" style="font-size:12px"></i>|Administrator closely RHCSA level|
+|Linux|<i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star-o" style="font-size:12px"></i><i class="fa fa-star-o" style="font-size:12px"></i>|Administrator closely RHCSA level|
 |Windows|<i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i>|For work not administration|
 |**Developer**|||
 |Python Core|<i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star-half-o fa-spin" style="font-size:12px"></i><i class="fa fa-star-o" style="font-size:12px"></i>||
