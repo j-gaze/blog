@@ -1,26 +1,26 @@
 Below my experience and the most interesting things at work 
 # Work
-| Company | | 
-| --- | --- |
-| **COMMERZBAK** 2018-now | 
-Analiza folderów HDFS w celu analizy po kątem problemów z konfiguracją HDP, HIVE (staging, compaction, multi versioning) (AWK
-[HDP2GCP](https://www.codeeurope.pl/en/speakers/jaroslaw-gaze) - system do backupu automatycznego z HDFS do GCP (PYTHON, HDP, GCP
-Ansible - tworzenie, modyfikacja skryptów Obecnie tworzenie skryptów dla CDP - 
-Standaryzacja nazewnictwa zmiennych i organizacja ról. Normalizowanie procesów ADD REMOVE TEST
-Optymalizacja zadań HIVE SPARK - W TRAKCIE - zdobywam praktykę 
-| |
-Optymalizacja zapytań Oracle SQL
-Tworzenie narzędzi monitorujących działanie systemów UNIX, LINUX, ORACLE dla ZABBIX 
-SAS 
+| **COMMERZBAK** 2018-now |
+| ----------------------- |
+| Analiza folderów HDFS w celu analizy po kątem problemów z konfiguracją HDP, HIVE (staging, compaction, multi versioning) (AWK) |
+| [HDP2GCP](https://www.codeeurope.pl/en/speakers/jaroslaw-gaze) - system do backupu automatycznego z HDFS do GCP (PYTHON, HDP, GCP) |
+| Ansible - tworzenie, modyfikacja skryptów instalacyjnych aktulaizacyjnych. Obecnie tworzenie skryptów dla CDP - <br/>Standaryzacja nazewnictwa zmiennych i organizacja ról. Normalizowanie procesów w rolach ADD REMOVE TEST|
+| Optymalizacja zadań HIVE SPARK - W TRAKCIE |
+| SAS |
+| **ASSECO** 2014-2018 |
+| Optymalizacja zapytań Oracle SQL |
+| Tworzenie narzędzi monitorujących działanie systemów UNIX, LINUX, ORACLE dla ZABBIX |
+| Oracle-BRM |
+| SAS |
 | **Orange**    2002-2014 | 
-Migrator - PLSQL migracja danych z jednego systemu ewidencyjnego do drugiego z dodatkową walidacją przesyłanych danych. Odrzucone dane zostały wyraportowane do klienta.
-Spływ – aplikacja sprawdzająca terminowość I kompletność plików otrzymanych z Pionu Sieci w systemie Kobat Kolektor (PHP+MySQL)
-Automatyzacja zleceń – rejestracja zgłaszanych problemów w procesie rozliczania, raportowanie stanu i rozwiązań problemów,generowanie skryptów wspomagających analizę/wyjaśniania zleceń (PHP+MySQL)
-Zarządzanie Zwrotami – Wyjaśnianie i raportowanie przyczyn rekordów zwracanych z systemów rozliczeniowych do systemu Kobat Kolektor (VB6)
-4 Sara CRT – aplikacja do rozliczania połączeń z telekonferencji automatycznych i półautomatycznych, rejestracja klientów, generowanie raportów i wkładów do faktur XLS, PDF, TXT. (PHP+MySQL+Ajax)
-Praca z UNIX, ORACLE, BASH, AWK, PHP  
+| Migrator - PLSQL migracja danych z jednego systemu ewidencyjnego do drugiego z dodatkową walidacją przesyłanych danych. Odrzucone dane zostały wyraportowane do klienta. |
+| Spływ – aplikacja sprawdzająca terminowość I kompletność plików otrzymanych z Pionu Sieci w systemie Kobat Kolektor (PHP+MySQL) |
+| Automatyzacja zleceń – rejestracja zgłaszanych problemów w procesie rozliczania, raportowanie stanu i rozwiązań problemów,generowanie skryptów wspomagających analizę/wyjaśniania zleceń (PHP+MySQL) |
+| Zarządzanie Zwrotami – Wyjaśnianie i raportowanie przyczyn rekordów zwracanych z systemów rozliczeniowych do systemu Kobat Kolektor (VB6) |
+| 4 Sara CRT – aplikacja do rozliczania połączeń z telekonferencji automatycznych i półautomatycznych, rejestracja klientów, generowanie raportów i wkładów do faktur XLS, PDF, TXT. (PHP+MySQL+Ajax) |
+| Praca z UNIX, ORACLE, BASH, AWK, PHP |
 
-# In meanwhile
+# In meanwhile webpages
 
 | Year Company                                               | ACTIVE                            | Project                           | Graphics                          | Code                              | CMS                               | SEO                               |
 | ---------------------------------------------------------- | --------------------------------- | --------------------------------- | --------------------------------- | --------------------------------- | --------------------------------- | --------------------------------- | 
@@ -41,3 +41,5 @@ Praca z UNIX, ORACLE, BASH, AWK, PHP
 | 2012 [Motorline](https://motorline.pl/)                    | <i class="bi bi-dash-square"></i> | <i class="bi bi-plus-square"></i> | <i class="bi bi-plus-square"></i> | <i class="bi bi-plus-square"></i> | <i class="bi bi-plus-square"></i> | <i class="bi bi-plus-square"></i> |
 | 2009 [CKM](https://ckm.lodz.pl/)                           | <i class="bi bi-dash-square"></i> | <i class="bi bi-plus-square"></i> | <i class="bi bi-plus-square"></i> | <i class="bi bi-plus-square"></i> | <i class="bi bi-plus-square"></i> | <i class="bi bi-plus-square"></i> |   
 | 2008 [BOK](http://bok.lodz.pl/)                            | <i class="bi bi-dash-square"></i> | <i class="bi bi-plus-square"></i> | <i class="bi bi-plus-square"></i> | <i class="bi bi-plus-square"></i> | <i class="bi bi-plus-square"></i> | <i class="bi bi-plus-square"></i> |     
+
+Własny CMS - utworzony z wykorzystaniem 
