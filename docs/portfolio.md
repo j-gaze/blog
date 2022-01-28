@@ -28,4 +28,21 @@ Below my experience and the most interesting things at work
 | 2009 [CKM](https://ckm.lodz.pl/)                           | <i class="bi bi-dash-square"></i> | <i class="bi bi-plus-square"></i> | <i class="bi bi-plus-square"></i> | <i class="bi bi-plus-square"></i> | <i class="bi bi-plus-square"></i> | <i class="bi bi-plus-square"></i> |   
 | 2008 [BOK](http://bok.lodz.pl/)                            | <i class="bi bi-dash-square"></i> | <i class="bi bi-plus-square"></i> | <i class="bi bi-plus-square"></i> | <i class="bi bi-plus-square"></i> | <i class="bi bi-plus-square"></i> | <i class="bi bi-plus-square"></i> |     
 
-Własny CMS - utworzony z wykorzystaniem 
+Własny CMS - utworzony z wykorzystaniem PHP-Core i MySQL
+Moduły:
+* logowanie
+* administracja stronami - typy stron
+* edycja stron (pod kątem SEO)
+    * strona zwykła tekstowa 
+    * strona tekstowa z dodatkowymi elementami graficznymi
+    * galeria zdjęć, linków ze zdjęciami
+    * definicja grup produktów, produktów i cech
+    * translator - definiowanie słownika powtarzające się zdania po angielsku + tłumaczenie po polsku. Na podstawie słownika ustawianie cech produktu w dwóch wersjach jezykowych
+    * definiowanie cech stron wyświetlających listy produktów 
+    * wysyłka email ze strony Kontakt
+    * moduł dostępowy dla klienta w celu umożliwienia pobierania dokumentacji produktów 
+
+Ponadto w PHP Core generowanie (4SaraCRT)
+* CSV
+* XLS
+* PDF
