@@ -35,9 +35,4 @@ Below list technologies and my level  (in my opinion)
 ## Interesting technologies 
 Scala <br/>
 Java <br/>
-C <br/>
-C++ <br/>
 Spark Streaming <br/>
-## Intersting articles
-
-[Programmer competency matrix](https://sijinjoseph.netlify.app/programmer-competency-matrix/)
