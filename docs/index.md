@@ -20,19 +20,17 @@ Below list technologies and my level  (in my opinion)
 |Ansible|<i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star-half-o fa-spin" style="font-size:12px"></i><i class="fa fa-star-o" style="font-size:12px"></i>||
 |Bash/AWK|<i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i>||
 |SQL/HQL|<i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i>|||
-|GIT|<i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star-half-o" style="font-size:12px"></i>|||
+|Bibucket/GIT|<i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star-o" style="font-size:12px"></i>|||
 |**Databases**|||
-|Oracle/MYSQL|<i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i>||
+|Oracle/MYSQL|<i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star-o" style="font-size:12px"></i>||
 |PostgreSQL|<i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star-half-o" style="font-size:12px"></i><i class="fa fa-star-o" style="font-size:12px"></i>||
 |**Hadoop**|||
 |HDP/CDP|<i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star-o" style="font-size:12px"></i>||
 |HDFS/YARN|<i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star-o" style="font-size:12px"></i>||
 |Hive|<i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star-half-o fa-spin" style="font-size:12px"></i><i class="fa fa-star-o" style="font-size:12px"></i>||
-|Kafka|<i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star-half-o fa-spin" style="font-size:12px"></i><i class="fa fa-star-o" style="font-size:12px"></i><i class="fa fa-star-o" style="font-size:12px"></i><i class="fa fa-star-o" style="font-size:12px"></i>||
 |**Cloud**|||
 |GCP|<i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star-o" style="font-size:12px"></i><i class="fa fa-star-o" style="font-size:12px"></i><i class="fa fa-star-o" style="font-size:12px"></i>|||
 |**Tools**|||
-|Bitbucket|<i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i>|||
 |InteliJ/VSCODE|<i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i>|||
 |JIRA/HPSEM|<i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i>|||
 
