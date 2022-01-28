@@ -21,8 +21,8 @@ Below list technologies and my level  (in my opinion)
 |Ansible|<i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star-half-o fa-spin" style="font-size:12px"></i><i class="fa fa-star-o" style="font-size:12px"></i>||
 |Bash|<i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i>||
 |Awk|<i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i>||
-|SQL|<i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i>|||
-|HQL|<i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star-half-o fa-spin" style="font-size:12px"></i><i class="fa fa-star-o" style="font-size:12px"></i>||
+|SQL/HQL|<i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i>|||
+|GIT|<i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star-half-o" style="font-size:12px"></i>|||
 |**Databases**|||
 |Oracle|<i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i>||
 |Mysql|<i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i>||
@@ -36,13 +36,10 @@ Below list technologies and my level  (in my opinion)
 |**Cloud**|||
 |GCP|<i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star-o" style="font-size:12px"></i><i class="fa fa-star-o" style="font-size:12px"></i><i class="fa fa-star-o" style="font-size:12px"></i>|||
 |**Tools**|||
-|GIT|<i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star-half-o" style="font-size:12px"></i>|||
 |Bitbucket|<i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i>|||
-|InteliJ|<i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i>|||
-|VSCODE|<i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i>|||
-|JIRA|<i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i>|||
-|HPESM|<i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i>|||
-|Remedy|<i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i>|||
+|InteliJ/VSCODE|<i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i>|||
+|JIRA/HPSEM|<i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i>|||
+
 
 ## Interesting technologies 
 Scala <br/>
