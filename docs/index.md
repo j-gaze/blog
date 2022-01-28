@@ -13,6 +13,7 @@ Below list technologies and my level  (in my opinion)
 | --- | --- | --- |
 | **OS** | | |
 |Linux|<i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star-o" style="font-size:12px"></i><i class="fa fa-star-o" style="font-size:12px"></i>|Administrator|
+|Docker|<i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star-o" style="font-size:12px"></i><i class="fa fa-star-o" style="font-size:12px"></i>||
 |Windows|<i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i>|For work not administration|
 |**Developer**|||
 |Python Core|<i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star" style="font-size:12px"></i><i class="fa fa-star-half-o fa-spin" style="font-size:12px"></i><i class="fa fa-star-o" style="font-size:12px"></i>||
