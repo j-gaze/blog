@@ -37,7 +37,7 @@ Moduły:<br/>
     * strona tekstowa z dodatkowymi elementami graficznymi<br/>
     * galeria zdjęć, linków ze zdjęciami<br/>
     * definicja grup produktów, produktów i cech<br/>
-    * translator - definiowanie słownika powtarzające się zdania po angielsku + tłumaczenie po polsku. Na podstawie słownika ustawianie cech produktu w dwóch wersjach jezykowych<br/>
+    * translator - definiowanie słownika powtarzające się zdania po angielsku + tłumaczenie po polsku. Na podstawie słownika ustawianie cech produktu w dwóch wersjach jezykowych i tworzenie opisów produktów automatycznie<br/>
     * definiowanie cech stron wyświetlających listy produktów <br/>
     * wysyłka email ze strony Kontakt<br/>
     * moduł dostępowy dla klienta w celu umożliwienia pobierania dokumentacji produktów <br/>

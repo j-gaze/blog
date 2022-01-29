@@ -37,7 +37,7 @@ Modules: <br/>
     * text page with additional graphics <br/>
     * photo gallery, photo links <br/>
     * definition of product groups, products and features <br/>
-    * translator - defining a dictionary of repeated sentences in English + translation in Polish. Based on the dictionary, setting product features in two language versions <br/>
+    * translator - defining a dictionary of repeated sentences in English + translation in Polish. Based on the dictionary, setting product features in two language versions and build description of products in automatically way <br/>
     * defining the features of pages displaying product lists <br/>
     * sending an email from the Contact <br/> page
     * customer access module to download product documentation <br/>
