@@ -1,14 +1,14 @@
-Poniżej najbardziej interesujące rzeczy jakie robiłem
+Below my experience and the most interesting things at work 
 # Work
-| Firma                 | Opis |
-| ----------------------- | ----------------------- |
-| **COMMERZBAK 2018-curently**  |- Analiza folderów HDFS w celu analizy po kątem problemów z konfiguracją HDP, HIVE (staging, compaction, multi versioning) (AWK)<br/>- [HDP2GCP](https://www.codeeurope.pl/en/speakers/jaroslaw-gaze) - system do backupu automatycznego z HDFS do GCP (PYTHON, HDP, GCP)<br/>Ansible - tworzenie, modyfikacja skryptów instalacyjnych aktulaizacyjnych. Obecnie tworzenie skryptów dla CDP - <br/>- Standaryzacja nazewnictwa zmiennych i organizacja ról. Normalizowanie procesów w rolach ADD REMOVE TEST<br/>- SAS<br/>- Optymalizacja zadań HIVE SPARK - W TRAKCIE |
-| **ASSECO 2014-2018** |- Optymalizacja zapytań Oracle SQL<br/>- Tworzenie narzędzi monitorujących działanie systemów UNIX, LINUX, ORACLE dla ZABBIX<br/>- Oracle-BRM<br/>- SAS |
-| **Orange 2002-2014** |- Migrator - PLSQL migracja danych z jednego systemu ewidencyjnego do drugiego z dodatkową walidacją przesyłanych danych. Odrzucone dane zostały wyraportowane do klienta. <br/>- Spływ – aplikacja sprawdzająca terminowość I kompletność plików otrzymanych z Pionu Sieci w systemie Kobat Kolektor (PHP+MySQL)<br/>- Automatyzacja zleceń – rejestracja zgłaszanych problemów w procesie rozliczania, raportowanie stanu i rozwiązań problemów,generowanie skryptów wspomagających analizę/wyjaśniania zleceń (PHP+MySQL)<br/>- Zarządzanie Zwrotami – Wyjaśnianie i raportowanie przyczyn rekordów zwracanych z systemów rozliczeniowych do systemu Kobat Kolektor (VB6)<br/>- 4 Sara CRT – aplikacja do rozliczania połączeń z telekonferencji automatycznych i półautomatycznych, rejestracja klientów, generowanie raportów i wkładów do faktur XLS, PDF, TXT. (PHP+MySQL+Ajax)<br/>- Praca z UNIX, ORACLE, BASH, AWK, PHP |
+| Company                 | Most important |
+| ----------------------- | ----------:------------ |
+| **COMMERZBAK 2018-curently**  |[HDP2GCP](https://www.codeeurope.pl/en/speakers/jaroslaw-gaze)- Analysis of HDFS folders for looking for problems with HDP configuration, HIVE (staging, compaction, multi versioning) (AWK) - report in html, csv<br/>- HDP2GCP - automatic backup system from HDFS to GCP (PYTHON, HDP, GCP)<br/>- Ansible - creating, modifying installation installation scripts. Currently scripting for CDP. Standardization code - variable naming and role organization.<br/>- HIVE SPARK Quests Optimization - STARTED|
+| **ASSECO 2014-2018** |- Optimalization SQL queries for Oracle-BRM reports<br/>- Create tools in bash/awk for monitoring Linux processes as input for ZABBIX<br/>- Create tools for analyzing SAS jobs for optimalization tasks<br/>Maintenace|
+| **Orange 2002-2014** |- Migrator - PLSQL data migration from one accounting system to another with validation of personal data. The rejected data has been reported to the client.<br/>- Rafting - an application that checks the timeliness and completeness of files received from the Network Division in the Kobat Kolektor system (PHP + MySQL)<br/>- Automation of orders - registration of payment settlement costs, status and obligations reporting, generation of ordered scripts / order clarification (PHP + MySQL)<br/>- Returns Management - contributing and reporting reasons for records returned from settlement systems to the Kobat Kolektor (VB6) system<br/>- 4 Sara CRT - an application for settling calls from automatic and semi-automatic teleconferences, customer registration, generating reports and payments for XLS, PDF, TXT invoices. (PHP + MySQL + Ajax)<br/>- Working with UNIX, ORACLE, BASH, AWK, PHP|
 
-# Portale w międzyczasie
+# In meanwhile webpages
 
-| Rok Firma                                               | Aktualny?                            | Projekt                           | Grafika                          | Kodowanie                              | Własny CMS                               | SEO                               |
+| Year Company                                               | ACTIVE                            | Project                           | Graphics                          | Code                              | MY CMS                               | SEO                               |
 | ---------------------------------------------------------- | --------------------------------- | --------------------------------- | --------------------------------- | --------------------------------- | --------------------------------- | --------------------------------- | 
 | 2019 [HANPAK](http://www.hanpak.com.pl/)                   | <i class="bi bi-plus-square"></i> | <i class="bi bi-plus-square"></i> | <i class="bi bi-dash-square"></i> | <i class="bi bi-plus-square"></i> | <i class="bi bi-dash-square"></i> | <i class="bi bi-plus-square"></i> |
 | 2018 [ZKTECO](http://zkteco-polska.pl/)                    | <i class="bi bi-dash-square"></i> | <i class="bi bi-plus-square"></i> | <i class="bi bi-plus-square"></i> | <i class="bi bi-plus-square"></i> | <i class="bi bi-plus-square"></i> | <i class="bi bi-plus-square"></i> |           
@@ -28,21 +28,21 @@ Poniżej najbardziej interesujące rzeczy jakie robiłem
 | 2009 [CKM](https://ckm.lodz.pl/)                           | <i class="bi bi-dash-square"></i> | <i class="bi bi-plus-square"></i> | <i class="bi bi-plus-square"></i> | <i class="bi bi-plus-square"></i> | <i class="bi bi-plus-square"></i> | <i class="bi bi-plus-square"></i> |   
 | 2008 [BOK](http://bok.lodz.pl/)                            | <i class="bi bi-dash-square"></i> | <i class="bi bi-plus-square"></i> | <i class="bi bi-plus-square"></i> | <i class="bi bi-plus-square"></i> | <i class="bi bi-plus-square"></i> | <i class="bi bi-plus-square"></i> |     
 
-Własny CMS - utworzony z wykorzystaniem PHP-Core i MySQL<br/>
-Moduły:<br/>
-* logowanie<br/>
-* administracja stronami - typy stron<br/>
-* edycja stron (pod kątem SEO)<br/>
-    * strona zwykła tekstowa <br/>
-    * strona tekstowa z dodatkowymi elementami graficznymi<br/>
-    * galeria zdjęć, linków ze zdjęciami<br/>
-    * definicja grup produktów, produktów i cech<br/>
-    * translator - definiowanie słownika powtarzające się zdania po angielsku + tłumaczenie po polsku. Na podstawie słownika ustawianie cech produktu w dwóch wersjach jezykowych<br/>
-    * definiowanie cech stron wyświetlających listy produktów <br/>
-    * wysyłka email ze strony Kontakt<br/>
-    * moduł dostępowy dla klienta w celu umożliwienia pobierania dokumentacji produktów <br/>
+My CMS - created using PHP-Core and MySQL <br/>
+Modules: <br/>
+* login <br/>
+* site administration - page types/structure pages/subpages <br/>
+* website editing (for SEO) <br/>
+    * plain text page <br/>
+    * text page with additional graphics <br/>
+    * photo gallery, photo links <br/>
+    * definition of product groups, products and features <br/>
+    * translator - defining a dictionary of repeated sentences in English + translation in Polish. Based on the dictionary, setting product features in two language versions <br/>
+    * defining the features of pages displaying product lists <br/>
+    * sending an email from the Contact <br/> page
+    * customer access module to download product documentation <br/>
 
-Ponadto w PHP Core generowanie (4SaraCRT)<br/>
-* CSV<br/>
-* XLS<br/>
-* PDF<br/>
+Also in PHP Core, generating (4SaraCRT) <br/>
+* CSV <br/>
+* XLS <br/>
+* PDF <br/>

@@ -29,5 +29,6 @@ nav:
   #   - KubernetesClusterManager: KubernetesClusterManager.md
   - Home: index.md
   - Portfolio: portfolio.md
+  - Portfolio EN: portfolioEn.md
   - Other: 
     - Markdown: markdown.md
