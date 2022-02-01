@@ -1,4 +1,5 @@
-Poniżej najbardziej interesujące rzeczy jakie robiłem
+<i class="bi bi-plus-square"></i> Tekst
+Poniżej najbardziej interesujące
 # Work
 | Firma                 | Opis |
 | ----------------------- | ----------------------- |
