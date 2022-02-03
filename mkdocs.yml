@@ -30,5 +30,10 @@ nav:
   - Home: index.md
   - Portfolio: portfolio.md
   - Portfolio EN: portfolioEn.md
+  - Python:
+    - Install: python/install.md
+  - Spark:
+    - Install: spark/install.md 
+    - Optimalization: spark/optimalization.md
   - Other: 
     - Markdown: markdown.md
