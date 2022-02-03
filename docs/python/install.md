@@ -19,3 +19,16 @@ Themes and other intersting additions
 !jt -l
 ```
 
+
+
+HIVE CLIENT in PYTHON
+>	https://cwiki.apache.org/confluence/display/Hive/HiveClient#HiveClient-Python
+	
+Ciekawa strona Matta	
+>	https://python.astrotech.io/	<br/>
+>	https://python.astrotech.io/stdlib/dataclass/field.html#use-case-validation
+	
+Wiki Python Time Complexity
+>	https://wiki.python.org/moin/TimeComplexity
+
+

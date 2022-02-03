@@ -32,6 +32,10 @@ nav:
   - Portfolio EN: portfolioEn.md
   - Python:
     - Install: python/install.md
+    - Pandas: python/pandas.md
+    - Seaborn: python/seaborn.md
+    - Scikit-learn: python/scikit-learn.md
+    - Links: python/links.md
   - Spark:
     - Install: spark/install.md 
     - Optimalization: spark/optimalization.md

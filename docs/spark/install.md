@@ -1,3 +1,10 @@
+# Install
+
+Installations steps on below page
+> https://spark.apache.org/docs/latest/<br/>
+> https://spark.apache.org/downloads.html
+
+
 Using spark via docker
 
 > [Docker Hub](https://hub.docker.com/r/bitnami/spark)<br/>
