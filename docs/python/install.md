@@ -2,12 +2,10 @@
 
 ## Documentation
 > [Python](https://www.python.org/)<br/>
-> [Python PEP - propozycje ulepszeń](https://www.python.org/dev/peps/) 
+> [Python PEP - propozycje ulepszeń](https://www.python.org/dev/peps/)<br/> 
+> [Python Time complexity](https://wiki.python.org/moin/TimeComplexity)<br/>
 > [Anaconda](https://www.anaconda.com/products/individual)<br/>
 > [Jupyter](https://jupyter.org/install)
-
-## Blogs
-[Matt Harasymczuk - Youtube](https://www.youtube.com/playlist?list=PLv4THqSPE6meFeo_jNLgUVKkP40UstIQv)<br/>
 
 
 
@@ -28,13 +26,13 @@ Themes and other intersting additions
 
 
 HIVE CLIENT in PYTHON
->	https://cwiki.apache.org/confluence/display/Hive/HiveClient#HiveClient-Python
+>	[Hive client Python](https://cwiki.apache.org/confluence/display/Hive/HiveClient#HiveClient-Python)
 	
 Ciekawa strona Matta	
->	https://python.astrotech.io/	<br/>
->	https://python.astrotech.io/stdlib/dataclass/field.html#use-case-validation
-	
+>	[MATT](https://python.astrotech.io/)	<br/>
+> [Matt Harasymczuk - Youtube](https://www.youtube.com/playlist?list=PLv4THqSPE6meFeo_jNLgUVKkP40UstIQv)
+
 Wiki Python Time Complexity
->	https://wiki.python.org/moin/TimeComplexity
+>	[TIME Complexity](https://wiki.python.org/moin/TimeComplexity)
 
 

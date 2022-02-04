@@ -37,6 +37,7 @@ nav:
     - Pandas: python/pandas.md
     - Seaborn: python/seaborn.md
     - Scikit-learn: python/scikit-learn.md
+    - Dask: python/dask.md
     - Projects in Python: python/project-in-python.md
   - Spark:
     - Install: spark/install.md 

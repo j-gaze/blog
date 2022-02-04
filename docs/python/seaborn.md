@@ -2,4 +2,4 @@
 The best library for data visualisation in Python 
 
 ## Documentation
-> https://seaborn.pydata.org/
+> [Seaborn official](https://seaborn.pydata.org/)

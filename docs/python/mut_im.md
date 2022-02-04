@@ -20,10 +20,10 @@ bytearray, list, tuple, set, frozenset, dict<br/>
 | class     |                       |
 | dataclass | dataclass(frozen=True)|
 
-np.array
-pd.Series
-pd.DataFrame
-pd.SparseArray
+np.array<br/>
+pd.Series<br/>
+pd.DataFrame<br/>
+pd.SparseArray<br/>
 
 ## Python Arrays
 
@@ -84,10 +84,13 @@ Dict = {
 ## str - is unicode
 
 ## Singletons
+```python
 True
 False
 None
+```
 ## you create an instance of a class dict
+```python
 data = dict()
 data = tuple()
 data = list()
@@ -96,9 +99,10 @@ data = frozenset()
 data = str()
 data = int()
 data = float()
-
+```
 
 ## syntactic sugar
+```python
 data = {}
 data = ()
 data = []
@@ -106,16 +110,16 @@ data = ''
 data = 0
 data = 0.0
 from array import array
-
 data = array('B')
-
-
+```
+```python
 from collections import namedtuple
 from dataclasses import dataclass
 from typing import NamedTuple, TypedDict
-
+```
 
 ## identifier and a scalar -> value
+```python
 point1_x = 1
 point1_y = 2
 point1_z = 3
@@ -176,6 +180,6 @@ class Point:
 x: int
 y: int
 z: int
-
+```
 
 ## ARC - Automatic Reference Counting
