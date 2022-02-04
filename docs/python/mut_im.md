@@ -25,6 +25,49 @@ pd.Series
 pd.DataFrame
 pd.SparseArray
 
+## Python Arrays
+
+### List:
+- Used in JSON format
+- Useful for Array operations
+- Used in Databases
+
+Listy mogą zawierać te same wartości wiele razy możemy dodawać elementy 
+```python
+List = ['Milk', 'Bread', 'Eggs', 'Eggs', True, False, {}, (), ['a', 'b', 'c']]
+```
+
+### Tuple:
+- Used to insert records in the database through SQL query at a time.Ex: (1.’sravan’, 34).(2.’geek’, 35)
+- Used in parentheses checker
+  
+Krotki są stałe po definicji nie możemy dodać następnych elementów
+```python
+Tuples = ('Milk', 'Bread', 'Eggs',)
+```
+
+### Set:
+- Finding unique elements
+- Join operations
+
+Jest to zbiór danych które nie mogą się powtarzać 
+```python
+Sets = {'Milk', 'Bread', 'Eggs'}
+String = "Python for Everybody True"
+```
+
+### Dictionary:
+- Used to create a data frame with lists
+- Used in JSON
+
+Słowniki key-value pairs
+```python
+Dict = {
+    'Milk': 'Goats Milk',
+    'Eggs': 'Free Range Eggs',
+}
+```
+
 ## Computational complexity
 - list - O(n)
 - tuple - O(n)
