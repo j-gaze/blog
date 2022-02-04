@@ -3,7 +3,7 @@
 I'm Jarek Gaze, and I'm working in IT since 2002 and below blog is for ordering my technolgies knowladge to help in every day work or share with colegues how we can some things do. 
 
 [My LinkedIn](https://www.linkedin.com/in/jaroslaw-gaze/)
-
+[My Nofluffjobs](https://nofluffjobs.com/profile/SZPFFIOK)
 
 ## Skill matrix 
 Below list technologies and my level  (in my opinion)
