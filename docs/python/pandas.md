@@ -1,6 +1,6 @@
 # Pandas
 
-The best library for Python to work with data in table format 
+Library for Python to work with data in table format 
 
 ## Documentation 
 > https://pandas.pydata.org/pandas-docs/stable/ <br/>

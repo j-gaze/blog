@@ -1,9 +1,15 @@
 # Install
 
-Below usefull links 
+## Documentation
 > [Python](https://www.python.org/)<br/>
+> [Python PEP - propozycje ulepszeń](https://www.python.org/dev/peps/) 
 > [Anaconda](https://www.anaconda.com/products/individual)<br/>
 > [Jupyter](https://jupyter.org/install)
+
+## Blogs
+[Matt Harasymczuk - Youtube](https://www.youtube.com/playlist?list=PLv4THqSPE6meFeo_jNLgUVKkP40UstIQv)<br/>
+
+
 
 ## Jupyter
 Display Jupyter version

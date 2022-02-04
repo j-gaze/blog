@@ -32,10 +32,12 @@ nav:
   - Portfolio EN: portfolioEn.md
   - Python:
     - Install: python/install.md
+    - Mutable Immutable: python/mut_im.md
+    - Classes: python/classes.md
     - Pandas: python/pandas.md
     - Seaborn: python/seaborn.md
     - Scikit-learn: python/scikit-learn.md
-    - Links: python/links.md
+    - Projects in Python: python/project-in-python.md
   - Spark:
     - Install: spark/install.md 
     - Optimalization: spark/optimalization.md

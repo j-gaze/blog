@@ -5,7 +5,7 @@ I'm Jarek Gaze, and I'm working in IT since 2002 and below blog is for ordering 
 [My LinkedIn](https://www.linkedin.com/in/jaroslaw-gaze/)
 
 
-## Competency matrix 
+## Skill matrix 
 Below list technologies and my level  (in my opinion)
 
 
