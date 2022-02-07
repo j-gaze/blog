@@ -1,5 +1,4 @@
-Below my experience and the most interesting things at work 
-# Work
+# Work experience
 | Company                 | Most important |
 | ----------------------- | ---------------------- |
 | **COMMERZBAK 2018-curently**  |- Analysis of HDFS folders for looking for problems with HDP configuration, HIVE (staging, compaction, multi versioning) (AWK) - report in html, csv<br/>- [HDP2GCP](https://www.codeeurope.pl/en/speakers/jaroslaw-gaze) - automatic backup system from HDFS to GCP (PYTHON, HDP, GCP)<br/>- Ansible - creating, modifying installation installation scripts. Currently scripting for CDP. Standardization code - variable naming and role organization.<br/>- HIVE SPARK Quests Optimization |
