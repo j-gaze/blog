@@ -1,6 +1,4 @@
-<i class="bi bi-plus-square"></i> Tekst
-Poniżej najbardziej interesujące
-# Work
+# Doświadczenie zawodowe
 | Firma                 | Opis |
 | ----------------------- | ----------------------- |
 | **COMMERZBAK 2018-curently**  |- Analiza folderów HDFS w celu analizy po kątem problemów z konfiguracją HDP, HIVE (staging, compaction, multi versioning) (AWK)<br/>- [HDP2GCP](https://www.codeeurope.pl/en/speakers/jaroslaw-gaze) - system do backupu automatycznego z HDFS do GCP (PYTHON, HDP, GCP)<br/>- Ansible - tworzenie, modyfikacja skryptów instalacyjnych aktulaizacyjnych. Obecnie tworzenie skryptów dla CDP - <br/>- Standaryzacja nazewnictwa zmiennych i organizacja ról. Normalizowanie procesów w rolach ADD REMOVE TEST<br/>- SAS<br/>- Optymalizacja zadań HIVE SPARK |
