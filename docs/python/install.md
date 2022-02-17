@@ -3,9 +3,11 @@
 ## Documentation
 > [Python](https://www.python.org/)<br/>
 > [Python PEP - propozycje ulepszeń](https://www.python.org/dev/peps/)<br/> 
+> [Python PEP - PEP8](https://www.python.org/dev/peps/pep-0008/)
 > [Python Time complexity](https://wiki.python.org/moin/TimeComplexity)<br/>
 > [Anaconda](https://www.anaconda.com/products/individual)<br/>
 > [Jupyter](https://jupyter.org/install)
+> [Terraform](https://www.terraform.io/)
 
 
 
